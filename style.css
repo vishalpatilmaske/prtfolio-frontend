@@ -2,6 +2,15 @@ body {
   margin: 0;
   padding: 0;
 }
+.amezon-links {
+  border: 1px solid gray;
+  width: 20rem;
+  text-align: center;
+  padding: 10px 0px;
+}
+.amezon-links a {
+  text-decoration: none;
+}
 /* navigation bar code */
 .navbar {
   background-color: rgb(255, 254, 254);
